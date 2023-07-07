@@ -7,6 +7,28 @@ public class PuzzleJavaTest {
 
         // 2. Mezclar e imprimir Nombres de un Array
 
-        iD.mezclarEImprimirNombres(new String[] {"Nancy", "Jinichi", "Fujibayashi", "Momochi", "Ishikawa"}, 5);
+        // iD.mezclarEImprimirNombres(new String[] {"Nancy", "Jinichi", "Fujibayashi",
+        // "Momochi", "Ishikawa"}, 5);
+
+        // 3. Primera y ultima letra de un alfabeto mezclado
+
+        // iD.PrimerUltimaLetra();
+
+        // 4. Array 55-100 aleatorio
+
+        // iD.arrayRandom();
+
+        // 5. Array 55 - 100 aleatorios ordenados
+
+        // iD.arrayRandomOrdenado();
+
+        // 6. cadena aleatoria con 5 caracteres
+
+        // iD.cadenaAleatoria();
+
+        // 7. arreglo de 10 cadenas aleatorias y cada una con 5 caracteres de longitud
+
+        iD.arrayCadenaAleatoria();
+
     }
 }
