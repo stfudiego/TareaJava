@@ -18,7 +18,7 @@ class Human {
 
     public void attack(Human human){
         human.health -= this.strength;
-        System.out.println("punch punch, salud enemigo:" + human.health);
+        System.out.println("punch punch, salud enemigo: " + human.health);
     }
 
     public int getStrength() {
