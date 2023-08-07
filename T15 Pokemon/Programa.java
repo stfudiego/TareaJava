@@ -11,7 +11,7 @@ public class Programa {
         pokedex.addPokemon(charizard);
         pokedex.listPokemon();
         System.out.println(pokedex.pokemonInfo(pikachu));
-        System.out.println( pokedex.pokemonInfo(squirtle));
+        System.out.println(pokedex.pokemonInfo(squirtle));
        
 
         pikachu.attackPokemon(charizard);
